@@ -1,0 +1,22 @@
+{
+  "name": "dev-challenge",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jasmine-jquery": "~2.1.1",
+    "jasmine-core": "jasmine#~2.5.2",
+    "jquery": "~3.1.0"
+  }
+}
